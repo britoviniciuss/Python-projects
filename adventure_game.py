@@ -1,8 +1,5 @@
 #Adventure game
-#O objetivo desse projeto é um jogo a onde terá varios finais de acordo com as respostas dada.
 
-#Estou numa guerra entre duas nações e temos dois lados: LadoA e LadoB. Somente um lado irá vencer. Tomar decisioes corretas para chegar a vitoria
-#do LadoA.
 import PySimpleGUI as sg
 
 
