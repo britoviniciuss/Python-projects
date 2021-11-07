@@ -5,7 +5,7 @@ import PySimpleGUI as sg
 class ChuteOnumero:
     def __init__(self):
         self.valor_aleatorio = 0
-        self.valormax = 5
+        self.valormax = 100
         self.valormin = 1
         self.tentar_novamente = True
 
